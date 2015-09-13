@@ -1,3 +1,15 @@
 .text-center {
     text-align: center;
 }
+
+.padding-20 {
+  padding: 20px;
+}
+
+.backgound-blue {
+  background-color: blue;
+}
+
+.white {
+  color: white;
+}
